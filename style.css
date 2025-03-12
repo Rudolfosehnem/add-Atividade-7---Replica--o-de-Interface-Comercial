@@ -1,0 +1,271 @@
+body{
+    background-color: #f0f0f0;
+    padding: 0%;
+    margin: 0%;
+}
+.color1{
+    background-color: #a1a0a0;
+    padding: 0%;
+    margin: 0%;
+}
+
+.cinza{
+    background-color: #a1a0a0;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+
+.text1{
+    font-size: 12px;
+    background-color: #a1a0a0;
+    padding: 0%;
+    margin: 0%;
+    
+}
+
+.linha{
+   border-top: 15px solid; 
+   border-color: yellow;
+   border-bottom: none;
+   margin-bottom: none;
+   padding: 0%;
+    margin: 0%;
+   
+}
+ 
+.nav{
+    display: flex;
+    margin: 10px;
+    border: #f0f0f0;
+    gap: 10PX;
+    padding-top: none;
+    margin-top: none;
+    background-color: #a1a0a0;
+    padding: 0%;
+    margin: 0%;
+    
+}
+.save
+{ 
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+
+}
+
+.cancel{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.edit{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px; 
+}
+
+.saveDraft{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.loadDraft{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.rotate{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.undo{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.rodo{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.check{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.addFunc{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.past1{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+.past2{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(43, 51, 54);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    background-color: aqua;
+}
+
+.past3{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(43, 51, 54);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    background-color: aqua;
+}
+
+.new{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.lixo{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.copy{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.up{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.down{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.ferramenta{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+
+.nave{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.i{
+    display: flex;
+    gap: 25px;
+    background-color: #a1a0a0;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+.flexA{
+    display: flex;
+    gap: 90px;
+    
+}
+
+.flexA2{
+    display: flex;
+    gap: 90px;
+
+}
