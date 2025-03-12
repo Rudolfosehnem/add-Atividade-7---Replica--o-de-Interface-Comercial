@@ -266,6 +266,17 @@ body{
 
 .flexA2{
     display: flex;
-    gap: 90px;
+    gap: 80px;
+    text-align: left;
 
+}
+
+.color3{
+     padding-left: 5px;
+    padding-right: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    margin-bottom: 10px;
 }
